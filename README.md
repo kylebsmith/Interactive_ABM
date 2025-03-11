@@ -23,7 +23,7 @@ pip install numpy pygame
 ## Usage
 Run the simulation by executing:
 ```sh
-python slime_mold.py
+python ABM_OSC_OUT.py
 ```
 
 ## Configuration
@@ -55,6 +55,7 @@ The following parameters can be adjusted in the code:
 - Add color variation for different agent behaviors.
 - Implement multiple agent species with distinct trail patterns.
 - Optimize performance for larger-scale simulations.
+- Integrate dynamic ecological system based interactions. 
 
 ## License
 This project is released under the MIT License.
